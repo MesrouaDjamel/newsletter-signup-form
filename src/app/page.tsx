@@ -1,5 +1,3 @@
-import Image from "next/image";
-import NewsLetterSuscribing from "./suscribing-to-newsletters/page";
 import Form from "@/components/Form";
 
 export default function Home() {
